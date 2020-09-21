@@ -1,6 +1,7 @@
 # -ScrabbleWordFinder
 My project Scrabble Word Finder
-[Full write up](file:///C:/Users/44744/Downloads/Fola%20Adebanjo%20-%20Scrabble%20Word%20Finder%20FULL%20REPORT.pdf)
+
+[Full 70 page project report](www.google.com)
 
 How to use: 
 

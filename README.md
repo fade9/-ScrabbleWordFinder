@@ -1,8 +1,7 @@
 # -ScrabbleWordFinder
 My project Scrabble Word Finder
 
-[Full 70 page project report](file:///C:/Users/44744/Downloads/Fola%20Adebanjo%20-%20Scrabble%20Word%20Finder%20FULL%20REPORT.pdf)
-
+[Full 70 page project report](https://app.luminpdf.com/viewer/5f69008941559e00112b9882)
 How to use: 
 
 1. Download .dat file.

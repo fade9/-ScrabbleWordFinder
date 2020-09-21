@@ -1,4 +1,4 @@
-# -ScrabbleWordFinder
+# Scrabble Word Finder
 My project Scrabble Word Finder
 
 [Full 70 page project report](https://drive.google.com/file/d/12BvbQoQ77wUBDfDthNhG_g2yWQWALqlx/view?usp=sharing)

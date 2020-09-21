@@ -1,7 +1,7 @@
 # -ScrabbleWordFinder
 My project Scrabble Word Finder
 
-[Full 70 page project report](https://app.luminpdf.com/viewer/5f69008941559e00112b9882)
+[Full 70 page project report](https://drive.google.com/file/d/12BvbQoQ77wUBDfDthNhG_g2yWQWALqlx/view?usp=sharing)
 
 **How to use:** 
 

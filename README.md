@@ -2,7 +2,8 @@
 My project Scrabble Word Finder
 
 [Full 70 page project report](https://app.luminpdf.com/viewer/5f69008941559e00112b9882)
-How to use: 
+
+**How to use:** 
 
 1. Download .dat file.
 2. Open and run Python file.

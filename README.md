@@ -10,3 +10,4 @@ My project Scrabble Word Finder
 3. Enter letters that you have on your scrabble board.
 4. Select a word from the results given.
 
+![image](https://user-images.githubusercontent.com/71013271/93821965-56fd0c00-fc57-11ea-82c4-e80d76f8f624.png)
